@@ -1,0 +1,7 @@
+{
+"receiverName": "Buoy1_H1",
+"sourceName": "Airgun",
+"smoothWindow": 10,
+"maxTimeGap": 86400,
+"interpMethod": "nearest"
+}

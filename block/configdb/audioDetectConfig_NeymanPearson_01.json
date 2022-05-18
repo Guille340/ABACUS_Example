@@ -1,0 +1,18 @@
+{
+"receiverName": "Buoy1_H1",
+"sourceName": "Airgun",
+"detector": "NeymanPearson",
+"DetectParameters": {
+	"detectorType": "ed",
+	"kernelDuration": 0.5,
+	"windowDuration": 2,
+	"windowOffset": [],
+	"rtpFalseAlarm": 1e-4,
+	"detectorSensitivity": 1,
+	"minSnrLevel": -6,
+	"cutoffFreqs": [0,1000],
+	"trainFolder": "",
+	"estimator": "",
+	"resampleRate": 2000
+	}
+}
